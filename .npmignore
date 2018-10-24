@@ -1,0 +1,5 @@
+yarn.lock
+.idea
+.DS_Store
+.editorconfig
+*.log
