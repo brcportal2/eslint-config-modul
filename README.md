@@ -1,6 +1,6 @@
 # eslint-config-modul
 
-[![JavaScript Style Guide](https://img.shields.io/badge/code_style-modul-brightgreen.svg)](https://standardjs.com)
+[![JavaScript Style Guide](https://img.shields.io/badge/code_style-modul-brightgreen.svg)](https://github.com/brcportal2/eslint-config-modul)
 
 An ESLint [Shareable Config](http://eslint.org/docs/developer-guide/shareable-configs) for JavaScript Modul Style
 
