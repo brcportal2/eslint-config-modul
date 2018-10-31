@@ -27,8 +27,8 @@ Based on [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) w
 - `import/prefer-default-export` - disabled
 - `class-methods-use-this` - disabled
 - `indent` - set to 4 spaces
-- `react/jsx-indent` - disabled
-- `react/jsx-indent-props` - disabled
+- `react/jsx-indent` - set to 4 spaces
+- `react/jsx-indent-props` - set to 4 spaces
 - `react/require-default-props` - disabled
 - `react/jsx-one-expression-per-line` - disabled
 - `jsx-a11y/anchor-has-content` - disabled
